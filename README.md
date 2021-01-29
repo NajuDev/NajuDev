@@ -14,7 +14,7 @@
 - 👨‍💻 write [code](https://github.com/beyondthesketch)
 - 🖋 write [articles](https://www.beyondthesketch.com/developer#articles) about web development
 - 📲 make [iMessage Stickers](https://www.beyondthesketch.com/imessage-stickers) 
-- 🖌 create art, characters and designs for [merch](https://shop.spreadshirt.co.uk/beyondthesketch)
+- 🛍 create art, characters and designs for [merch](https://shop.spreadshirt.co.uk/beyondthesketch)
 
 
 **📫 Follow me on socials:**
