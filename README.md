@@ -10,8 +10,8 @@
 
 
 **🏢 I founded and run [Beyond The Sketch](https://www.beyondthesketch.com/) where I:**
-- 💻 create websites
-- 👨‍💻 [write code](https://github.com/beyondthesketch)
+- 💻 create websites and [WebApps](https://www.beyondthesketch.com/webapps)
+- 👨‍💻 write [code](https://github.com/beyondthesketch)
 - 🖋 write [articles](https://www.beyondthesketch.com/developer#articles) about web development
 - 📲 make [iMessage Stickers](https://www.beyondthesketch.com/imessage-stickers) 
 - 🖌 create art, characters and designs for [merch](https://shop.spreadshirt.co.uk/beyondthesketch)
@@ -21,6 +21,11 @@
 - Twitter: [@inajinary](https://twitter.com/inajinary)
 - Instagram: [inajinary](https://www.instagram.com/inajinary/)
 
+**📫 Follow my business socials:**
+- Twitter: [@beyondthesketch](https://twitter.com/beyondthesketch)
+- Instagram (company): [beyondthesketchltd](https://www.instagram.com/beyondthesketchltd/)
+- Instagram (dev & design): [beyondthesketch](https://www.instagram.com/beyondthesketch/)
+- YouTube [channel](https://www.youtube.com/channel/UCYd_CTychF9kxYToaAWPiPQ)
 
 <!--
 **NajuDev/NajuDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
